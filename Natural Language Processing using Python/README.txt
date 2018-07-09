@@ -1,0 +1,2 @@
+First, try at the NLTK language processing API, includes basic tokenization, web scraping and text analysis. Finally closing with a rough implementation of ELIZA.
+FSA is a finite state machine displaying regular expression.
