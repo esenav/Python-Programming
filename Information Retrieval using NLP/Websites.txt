@@ -1,0 +1,5 @@
+http://www.bbc.co.uk/news/world-us-canada-43092085
+http://csee.essex.ac.uk/staff/udo/index.html
+http://irsg.bcs.org/ksjaward.php
+https://programminghistorian.org/lessons/output-data-as-html-file
+http://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
